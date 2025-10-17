@@ -50,7 +50,7 @@ pip install pyinstaller
 
 
 ### 方式 2：使用便携 EXE（推荐）  
-若需在无 Python 环境的电脑上使用，可将源码打包为单文件 EXE，步骤如下：  
+若需在无 Python 环境的电脑上使用，可将源码打包为单文件 EXE，或下载Releases中打包好的文件，步骤如下：  
 
 #### 打包命令  
 在源码目录执行以下命令，生成名为 `ImgConverter.exe` 的便携文件：  
